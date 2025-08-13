@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shri Haridas Seva Trust</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; }
+        header { background: #fff; padding: 15px; text-align: center; }
+        header img { max-width: 300px; height: auto; border-radius: 10px; }
+        header h1 { margin: 10px 0 5px; color: #333; }
+        nav { background: #333; padding: 10px; text-align: center; }
+        nav a { color: white; text-decoration: none; margin: 0 15px; }
+        nav a:hover { text-decoration: underline; }
+        section { padding: 20px; max-width: 900px; margin: auto; background: white; margin-top: 20px; border-radius: 8px; box-shadow: 0px 2px 8px rgba(0,0,0,0.1); }
+        h2 { color: #444; }
+        .donate { background: #ffefc1; padding: 15px; border-radius: 8px; }
+        footer { background: #333; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+        img { max-width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="your-image.jpg" alt="Shri Haridas Seva Trust">
+    <h1>🙏 Shri Haridas Seva Trust 🙏</h1>
+    <p>Seva hi hamara dharm hai</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#donation">Donate</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Shri Haridas Seva Trust, seva aur daan ke madhyam se gareebon ki madad karta hai. Hamara lakshya hai ki har vyakti tak rashan, shiksha aur chikitsa suvidha pahunch sake.</p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>🍚 Gareeb parivaron ko rashan vitran</li>
+        <li>📚 Bachchon ke liye shiksha sahayata</li>
+        <li>💊 Chikitsa aur davaai ki suvidha</li>
+    </ul>
+</section>
+
+<section id="donation" class="donate">
+    <h2>Donate Now</h2>
+    <p>Aapke daan se kisi ka jeevan badal sakta hai ❤️</p>
+    <p><b>Bank Name:</b> XYZ Bank</p>
+    <p><b>Account Number:</b> 1234567890</p>
+    <p><b>IFSC:</b> ABCD0123456</p>
+    <p><b>Paytm / UPI:</b> 9876543210@paytm</p>
+    <img src="your-qr-code.png" alt="Paytm QR Code">
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Address: Mathura, Uttar Pradesh, India</p>
+    <p>📞 Phone: +91 9876543210</p>
+    <p>✉ Email: info@shriharidassevatrust.org</p>
+</section>
+
+<footer>
+    <p>© 2025 Shri Haridas Seva Trust | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
